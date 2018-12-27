@@ -10,7 +10,7 @@ namespace Malum.Items.Placeable
      				public override void SetStaticDefaults()
 		{
 			DisplayName.SetDefault("Azurite Bar");
-			Tooltip.SetDefault("Fossils from the great war of the ancient sea.");
+			Tooltip.SetDefault("Long ago there was a great war of a long dried up sea. You're holding the remains of a soldier from millenia's past");
 		}
 		
 		public override void SetDefaults()
@@ -24,8 +24,7 @@ namespace Malum.Items.Placeable
 			item.useTime = 10;
 			item.useStyle = 1;
 			item.value = 2100;
-			item.consumable = true;
-			item.createTile = mod.TileType("AzuriteBar");
+			item.consumable = false;
 		}
 
 		public override void AddRecipes()

@@ -1,1 +1,8 @@
-Malum Mod is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+The Malum Mod is a cool mod destined to have alot of things.
+For example, a class, many bosses, and general expansions to vanilla aswell as some cool weapon prototypes we want to show you!
+
+Developers:
+Bear Police - Owner
+Lizardry - Main Coder and Bad Spriter
+Alexus - Spriter
+Corinna - Coder
